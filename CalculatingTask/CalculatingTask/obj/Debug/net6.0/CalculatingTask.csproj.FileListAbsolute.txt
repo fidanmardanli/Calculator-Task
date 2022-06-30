@@ -1,0 +1,15 @@
+C:\Users\marda\Desktop\c#\Calculator Task\CalculatingTask\CalculatingTask\bin\Debug\net6.0\CalculatingTask.exe
+C:\Users\marda\Desktop\c#\Calculator Task\CalculatingTask\CalculatingTask\bin\Debug\net6.0\CalculatingTask.deps.json
+C:\Users\marda\Desktop\c#\Calculator Task\CalculatingTask\CalculatingTask\bin\Debug\net6.0\CalculatingTask.runtimeconfig.json
+C:\Users\marda\Desktop\c#\Calculator Task\CalculatingTask\CalculatingTask\bin\Debug\net6.0\CalculatingTask.dll
+C:\Users\marda\Desktop\c#\Calculator Task\CalculatingTask\CalculatingTask\bin\Debug\net6.0\CalculatingTask.pdb
+C:\Users\marda\Desktop\c#\Calculator Task\CalculatingTask\CalculatingTask\obj\Debug\net6.0\CalculatingTask.csproj.AssemblyReference.cache
+C:\Users\marda\Desktop\c#\Calculator Task\CalculatingTask\CalculatingTask\obj\Debug\net6.0\CalculatingTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marda\Desktop\c#\Calculator Task\CalculatingTask\CalculatingTask\obj\Debug\net6.0\CalculatingTask.AssemblyInfoInputs.cache
+C:\Users\marda\Desktop\c#\Calculator Task\CalculatingTask\CalculatingTask\obj\Debug\net6.0\CalculatingTask.AssemblyInfo.cs
+C:\Users\marda\Desktop\c#\Calculator Task\CalculatingTask\CalculatingTask\obj\Debug\net6.0\CalculatingTask.csproj.CoreCompileInputs.cache
+C:\Users\marda\Desktop\c#\Calculator Task\CalculatingTask\CalculatingTask\obj\Debug\net6.0\CalculatingTask.dll
+C:\Users\marda\Desktop\c#\Calculator Task\CalculatingTask\CalculatingTask\obj\Debug\net6.0\refint\CalculatingTask.dll
+C:\Users\marda\Desktop\c#\Calculator Task\CalculatingTask\CalculatingTask\obj\Debug\net6.0\CalculatingTask.pdb
+C:\Users\marda\Desktop\c#\Calculator Task\CalculatingTask\CalculatingTask\obj\Debug\net6.0\CalculatingTask.genruntimeconfig.cache
+C:\Users\marda\Desktop\c#\Calculator Task\CalculatingTask\CalculatingTask\obj\Debug\net6.0\ref\CalculatingTask.dll
